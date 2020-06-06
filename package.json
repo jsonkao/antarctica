@@ -1,0 +1,9 @@
+{
+  "name": "antarctica",
+  "dependencies": {
+    "netcdfjs": "^1.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.2.0"
+  }
+}
