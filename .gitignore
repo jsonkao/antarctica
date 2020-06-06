@@ -3,3 +3,7 @@
 node_modules
 
 antarctica_ice_velocity_450m_v2.nc
+
+.ipynb_checkpoints/
+
+.vscode
