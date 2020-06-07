@@ -13,6 +13,8 @@ numpy = "*"
 matplotlib = "*"
 rasterio = "*"
 jupyter = "*"
+pillow = "*"
+jupyter-client = "*"
 
 [requires]
 python_version = "3.7"
